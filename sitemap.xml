@@ -6,7 +6,7 @@
   <loc>https://yukimaehara.github.io/</loc>
   <xhtml:link
   	rel="alternate"
-  	href="en"
+  	hreflang="en"
   	href="https://yukimaehara.github.io/"/>
   <xhtml:link
   	rel="alternate"
