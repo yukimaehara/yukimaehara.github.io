@@ -2,7 +2,8 @@
 
 body {color: #000040;
 	background-color: #CCCCCC;
-	font-family: 'Verdana','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+	font-family: 'Scope One', 'ヒラギノ角ゴシック', 'Yu Gothic', serif;
+	font-size: 1.1em;
 	margin: 0 20px}
 p {color: #000060}
 .paper {font-style: italic}
